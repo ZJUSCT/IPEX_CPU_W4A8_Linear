@@ -5,6 +5,6 @@ I rewrote the AMX operation part of the 4-bit quantization code in the woq linea
 
 I conducted performance testing and found a 20% improvement compared to the original code. The result chart is as follows.
 
-<img width="1691" height="1214" alt="903248cf3f9da088a69fdeb2cec7076b" src="https://github.com/user-attachments/assets/75100944-b241-402c-a2ae-15a6b0fa130e" />
+<img width="1929" height="1452" alt="image" src="https://github.com/user-attachments/assets/54288ec5-f1c0-4206-aa36-20d0bb7c1c8b" />
 
 In this repository, I only provided the location of the modified code. You just need to replace the original files and use the official script to compile it.
